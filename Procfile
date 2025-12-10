@@ -1,1 +1,1 @@
-web: python analytics_server.py
+web: python main.py
