@@ -1,0 +1,13 @@
+# Analytics MCP Server - Environment Variables
+
+# URLs de los servidores MCP (cambiar a tus URLs de Railway)
+SHOPIFY_MCP_URL=https://mcp-dropshipping-production.up.railway.app
+DROPI_MCP_URL=https://dropi-production.up.railway.app
+META_MCP_URL=https://server-meta-production-4773.up.railway.app
+# TIKTOK_MCP_URL=  # Pendiente aprobación
+
+# Moneda (Q para Guatemala, $ para Colombia)
+CURRENCY_SYMBOL=Q
+
+# Puerto (Railway lo asigna automáticamente)
+PORT=3000
